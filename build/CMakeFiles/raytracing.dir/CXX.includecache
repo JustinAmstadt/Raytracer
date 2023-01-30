@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/justin/VSCode/raytracing/main.cpp
+iostream
+-
+array
+-
+glm/vec3.hpp
+-
+ray.hpp
+/home/justin/VSCode/raytracing/ray.hpp
+
+/home/justin/VSCode/raytracing/ray.hpp
+

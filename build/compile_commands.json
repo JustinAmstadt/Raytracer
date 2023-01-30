@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/justin/VSCode/raytracing/build",
+  "command": "/usr/bin/g++   -I/home/justin/VSCode/raytracing  -g   -o CMakeFiles/raytracing.dir/main.cpp.o -c /home/justin/VSCode/raytracing/main.cpp",
+  "file": "/home/justin/VSCode/raytracing/main.cpp"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/raytracing.dir/main.cpp.o  -o raytracing 
